@@ -22,7 +22,7 @@
 
 const HOSTED_URLS = {
   model:
-      'https://storage.googleapis.com/tfjs-models/tfjs/translation_en_fr_v1/model.json',
+      'https://cw-timo.github.io/nietzsche_model_conv/model.json',
   metadata:
       'https://storage.googleapis.com/tfjs-models/tfjs/translation_en_fr_v1/metadata.json'
 };
