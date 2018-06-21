@@ -196,7 +196,12 @@ var core = module.exports = { version: '2.5.7' };
 if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 
 },{}],214:[function(require,module,exports) {
-
+c:
+    
+    
+    
+    
+    
 // https://github.com/zloirock/core-js/issues/86#issuecomment-115759028
 var global = module.exports = typeof window != 'undefined' && window.Math == Math
   ? window : typeof self != 'undefined' && self.Math == Math ? self
@@ -44006,4 +44011,4 @@ async function setupTranslator() {
 
 setupTranslator();
 },{"babel-runtime/core-js/object/keys":11,"@tensorflow/tfjs":10,"./loader":7,"./ui":6}]},{},[4], null)
-//# sourceMappingURL=c:/Program%20Files/Git/translation.570ed00a.map
+//# sourceMappingURL=./translation.570ed00a.map
